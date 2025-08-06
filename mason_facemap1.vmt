@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	$baseTexture 			"models/tnb/heads/mason_facemap1"
-	$bumpmap 			"models/tnb/heads/mason_facemap_normal"
-	$halflambert 1
-}
